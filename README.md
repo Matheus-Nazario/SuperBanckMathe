@@ -22,3 +22,4 @@ Na pasta raiz do projeto executar o comando:
 
     java -jar ./target/*.jar
 
+# SuperBanckMathe
